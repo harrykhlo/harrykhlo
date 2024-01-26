@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/harry-lo-27034265/)
 - 😄 Pronouns: he / his
 - 📍 Location: Christchurch, Canterbury, New Zealand
-<!-- - ⚡ Fun fact: ... -->
+- ⚡ Fun fact: I can see without glasses but I am wearing my glasses all the time for fun! 🤗 He! He!
 
