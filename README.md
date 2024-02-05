@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on C#, dotNet and JavaScript
-- 🌱 I’m currently learning Microservices
+- 🌱 I’m currently learning Microservices in https://github.com/brickwareharry
 - 👯 I’m looking to collaborate on hobby project on a team of three
 - 🤔 I’m looking for help with building an open source Microservices project
 - 💬 Ask me about my project progress
